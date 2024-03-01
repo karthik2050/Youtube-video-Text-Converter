@@ -1,1 +1,1 @@
-# Youtube-video-Text-Converter
+# YouTube-Transcript-to-Detailed-Notes-Converter_GoogleGemini
